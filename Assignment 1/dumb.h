@@ -1,0 +1,2 @@
+
+void dumb(int n);
